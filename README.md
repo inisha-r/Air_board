@@ -9,11 +9,6 @@
 * Live webcam feed with overlaid drawings
 * Press `'q'` to exit the application
 
-## Demo
-
-![Air Board Demo](demo.gif)
-*(Replace with your demo GIF or video)*
-
 ## Requirements
 
 * Python 3.7+
